@@ -2,5 +2,5 @@
 
 public interface IBracketMatcher
 {
-    bool IsValid(string input);
+    bool IsValid(string? input);
 }
